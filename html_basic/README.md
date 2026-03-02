@@ -4,7 +4,7 @@ This project contains my first webpages built with basic HTML, created as part o
 
 ## Files
 
-- `base_index.html`: Basic valid HTML structure
+- `base_index.html`: Basic HTML structure
 - `index.html`: Main homepage with content and image
 - `tweets.html`: Page with embedded tweet
 
